@@ -26,7 +26,7 @@ a {
 }
 
 a:hover {
-  color: #f05f40;
+  color: #0084fd;
 }
 
 h1,
@@ -97,7 +97,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #f05f40;
+  color: #0084fd;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
