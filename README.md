@@ -20,6 +20,8 @@ This repository is for the 2018 Safe Drinking Water Data Challenge (http://water
 - [State Water Board: Safe Drinking Water Information System](https://sdwis.waterboards.ca.gov/PDWW/)       
 - [SWRCB Drinking Water](https://www.waterboards.ca.gov/resources/data_databases/drinking_water.html)
 - [Lead in schools](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/leadsamplinginschools.html)
+- [Economically Distressed Areas](https://gis.water.ca.gov/app/edas/)
+- [Disadvantaged Communities](https://gis.water.ca.gov/app/dacs/)
 
 ## About the website template
 
