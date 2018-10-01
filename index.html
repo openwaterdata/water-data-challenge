@@ -34,9 +34,10 @@
 
   <body id="page-top">
 <script>
-$(document).ready(function(){
-    $('#myTable').dataTable();
-});
+    $(document).ready(function () {
+        $.noConflict();
+        var table = $('#myTable').DataTable();
+    });
 </script>
   
     <!-- Navigation -->
@@ -118,7 +119,9 @@ $(document).ready(function(){
           <div class="col-lg-8 mx-auto text-center">
             <h2 class="section-heading">Water Quality Exceedances</h2>
             <hr class="my-4">
-            <p class="mb-5">
+		</div>
+      	</div>
+	</div>
     <div class="container-fluid p-0">
     <table id="myTable" class="table table-striped">
       <thead>
@@ -2192,10 +2195,7 @@ $(document).ready(function(){
     </tbody>
       </table>
       </div>
-            
-            </p>
-          </div>
-        </div>
+
     </section>
   
     <section id="contact">
